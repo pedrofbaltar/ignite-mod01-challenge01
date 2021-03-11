@@ -129,4 +129,4 @@ A rota deve receber, pelo header da requisição, uma propriedade `username` con
 
 ---
 
-Feito com 💜 por <a href="https://www.linkedin.com/in/pedro-felipe-baltar-2a26a31ab/">Pedro Felipe Baltar</a> :wave:
+Feito com 💜 por <a href="https://www.linkedin.com/in/pedro-felipe-baltar-2a26a31ab/">Pedro Felipe Baltar</a>
