@@ -60,7 +60,7 @@ $ yarn dev
 
 ---
 
-### Rotas da aplicação (Instruções)
+### 🗺️ Rotas da aplicação (Instruções)
 
 Com o template já clonado e o arquivo `index.js` aberto, você deve completar onde não possui código com o código para atingir os objetivos de cada teste.
 
