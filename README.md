@@ -62,8 +62,6 @@ $ yarn dev
 
 ### Rotas da aplicação (Instruções)
 
-Você pode ter acesso à documentação no Notion sobre as rotas e testes clicando [aqui](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8).
-
 Com o template já clonado e o arquivo `index.js` aberto, você deve completar onde não possui código com o código para atingir os objetivos de cada teste.
 
 #### POST `/users`
@@ -128,5 +126,15 @@ A rota deve receber, pelo header da requisição, uma propriedade `username` con
 A rota deve receber, pelo header da requisição, uma propriedade `username` contendo o username do usuário e excluir o _todo_ que possuir um `id` igual ao `id` presente nos parâmetros da rota.
 
 ---
+
+### 🤨 Observações
+
+Você pode ter acesso à documentação no Notion sobre as rotas e testes clicando [aqui](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8).
+
+---
+
+### 📜 LIcença
+
+Esse projeto está sob a licença do MIT. Veja o arquivo [LICENSE](./LICENSE).
 
 Feito com 💜 por <a href="https://www.linkedin.com/in/pedro-felipe-baltar-2a26a31ab/">Pedro Felipe Baltar</a>
